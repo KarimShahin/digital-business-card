@@ -1,0 +1,16 @@
+.intrest {
+    box-sizing: border-box;
+    border-radius: 0;
+    padding-inline: 2em;
+    text-align: left;
+}
+
+.intrest-title {
+    padding-top: 1em;
+    font-size: 1.2rem;
+}
+
+.intrest-body {
+    font-size: 0.75rem;
+    padding-bottom: 2em;
+}

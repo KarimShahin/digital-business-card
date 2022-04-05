@@ -1,0 +1,14 @@
+.about-me {
+    box-sizing: border-box;
+    border-radius: 0;
+    padding-inline: 2em;
+    text-align: left;
+}
+
+.about-me-title {
+    font-size: 1.2rem;
+}
+
+.about-me-body {
+    font-size: 0.75rem;
+}
